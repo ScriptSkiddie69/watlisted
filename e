@@ -5,5 +5,6 @@ local hwid = {
 '0D5D2291-7614-448A-8C32-6AB0F431785A',
 
 }
+a
 
 return hwid
